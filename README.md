@@ -1,1 +1,1 @@
-Criando portifólio com html e css.
+Criando portfolio com html e css.
