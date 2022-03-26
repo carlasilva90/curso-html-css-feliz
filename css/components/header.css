@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    border-bottom: 10px solid #000000;
+    padding: 10px 20px;
+}
+
+.header .navigation {
+    text-align: right;
+}
