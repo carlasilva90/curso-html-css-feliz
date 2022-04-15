@@ -1,0 +1,27 @@
+.main-section {
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid green;
+}
+
+.main-section .main-title {
+    margin-bottom: 60px;
+}
+
+.main-section.-bgOrange {
+    background-color: #FF4500;
+}
+
+.main-section.-bdBlack {
+    border-bottom: 10px solid #000;
+}
+
+.main-section.-bgGrey {
+    background-color: rgb(82, 80, 80);
+}
+
+.main-section.-bdRed {
+    border-bottom: 10px solid #B12F2F
+}
+

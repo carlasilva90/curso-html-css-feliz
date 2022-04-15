@@ -1,4 +1,4 @@
-.button {
+.main-button {
     display: inline-block;
     background-color: #F25A70;
     padding: 18px 20px;
@@ -7,10 +7,16 @@
     font-size: 20px;
     color: #FFFFFF;
     text-decoration: none;
+    cursor: pointer;
 
 }
-.button:hover {
+.main-button:hover {
     background-color: aquamarine;
     color: #000000;
 
+}
+.main-button.-send {
+    width: 100%;
+    font-family: 'Fira Code', sans-serif;
+    font-size: 30px;
 }
